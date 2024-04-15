@@ -38,7 +38,7 @@ Once the program is running, follow the prompts to perform various tasks:
 - If you're an administrator, you can register new users or display statistics.
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 
